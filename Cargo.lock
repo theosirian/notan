@@ -1803,6 +1803,7 @@ version = "0.13.0"
 dependencies = [
  "bytemuck",
  "egui",
+ "egui_extras",
  "log",
  "notan_app",
  "notan_core",
